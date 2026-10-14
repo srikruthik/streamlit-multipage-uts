@@ -1,6 +1,6 @@
 # Streamlit Multipage App
 
-A simple Streamlit multipage app with an intro page and plotting, mapping, and dataframe demos.
+A simple Streamlit multipage app with an intro page and plotting, mapping and dataframe demos.
 
 ## Run locally
 
